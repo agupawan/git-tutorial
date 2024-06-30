@@ -3,4 +3,4 @@ kumar
 agu
 name added remotely
 name added locally
-test merge when main changes are not required
+test merge main changes omitted
